@@ -174,7 +174,7 @@ extension ViewController {
     }
     
     @objc func spaceIncreaseIndentButtonTapped() {
-//        print(#function)
+        print(#function)
     }
 }
 
